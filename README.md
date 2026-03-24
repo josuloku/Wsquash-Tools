@@ -1,4 +1,4 @@
-# WsquashTools — Compresor de juegos para SquashWinFS
+# WsquashTools — Compresor / Descompresor de juegos para SquashWinFS
 
 ## English
 
