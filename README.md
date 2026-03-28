@@ -9,7 +9,7 @@
 
 **SquashWinFS** es una herramienta ligera para Windows diseñada para montar imágenes SquashFS de forma transparente. Permite ejecutar juegos o aplicaciones directamente desde contenedores comprimidos sin descompresión previa, utilizando un sistema de **Overlay** para persistencia de datos.
 
-Desarrollado por **Josuloku**.
+Desarrollado por **Josuloku**. ko-fi.com/josuloku
 
 ## ✨ Características
 - **Montaje FUSE:** Monta archivos `.squashfs` y `.wsquashfs` como unidades virtuales.
@@ -57,7 +57,7 @@ SquashWinFS.exe -i "juego.squashfs" --mode extract
 
 **SquashWinFS** is a lightweight Windows tool designed to mount SquashFS images transparently. It allows you to run games or applications directly from compressed containers without prior decompression, using an **Overlay** system for data persistence.
 
-Developed by **Josuloku**.
+Developed by **Josuloku**.ko-fi.com/josuloku
 
 ## ✨ Features
 - **FUSE Mounting:** Mounts `.squashfs` and `.wsquashfs` files as virtual drives.
